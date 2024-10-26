@@ -1,0 +1,12 @@
+.container {
+     display: flex;
+     justify-content: center;
+     gap: 100px;
+     text-align: left;
+     
+}
+.child{
+    border: 3px solid black;
+   width: 350px;
+   height: 500px;
+}
